@@ -1,0 +1,35 @@
+<p>
+<strong>午前7時 －－ 朝食</strong>
+<br/>
+<br/>
+<strong>午前7時30分 －－ 朝の会</strong>
+<br/>
+
+<br/>
+<br/>
+<strong>午前8時 ～ 午後4時 －－ 作業時間</strong>
+<br/>
+
+<br/>
+<br/>
+<strong>午後6時 －－ 夕食</strong>
+<br/>
+
+<br/>
+<br/>
+<strong>午後7時30分 －－ 夜間活動</strong>
+<br/>
+
+<br/>
+<br/>
+
+</p>
+
+<table border="1">
+<caption>habitatスタッフの１日</caption>
+    <tr>
+        <td>時間</td>
+        <td>活動時間</td>
+        <td>説明</td>
+    </tr>
+</table>
